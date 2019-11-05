@@ -31,6 +31,8 @@
 - 팀명 : 자료구조
 - 팀원 : 김고래, 버디, 션, 슬로스, 올레
 - 원본 Repo : [wooteco-datastructure/miniprojects-2019](https://github.com/wooteco-datastructure/miniprojects-2019)
+- Demo
+  - [youtube 🎬](https://youtu.be/6KLoR21XFWk)
 - 정리
   - [전체 미션, 개발 관련 📝](https://os94.tistory.com/166)
   - [협업 관련 회고 📝](https://os94.tistory.com/173)
