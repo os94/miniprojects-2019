@@ -25,7 +25,7 @@
 
 <br>
 
-# Woostagram
+# 📱 Woostagram
 
 - 인스타그램 클론
 - 팀명 : 자료구조
@@ -36,6 +36,15 @@
 - 정리
   - [전체 미션, 개발 관련 📝](https://os94.tistory.com/166)
   - [협업 관련 회고 📝](https://os94.tistory.com/173)
+- 사용기술
+  - Spring Boot
+  - JPA
+  - Javascript
+  - MySQL, H2
+  - Lombok
+  - WebSocket, Spring Rest Docs, Github OAuth ...
+
+<br>
 
 ### ⚙ 구현기능
 
@@ -63,6 +72,8 @@
     - with 김고래
     - DM 기능 (WebSocket)
 
+<br>
+
 ### 👬 팀 문화
 
 - 정확한 내용은 [원본 Repo](https://github.com/wooteco-datastructure/miniprojects-2019/wiki) 참고
@@ -78,12 +89,15 @@
   - 삽질 Max Limit 1 hour -> help or pass
   - Gradle, Java, Front ...
 
+<br>
+
 ### ⛏ 삽질내역
 
 - [이미지와 동영상 파일은 어디에 저장할것인가?](https://os94.tistory.com/161)
 - [클라이언트에서 서버의 로컬파일에 어떻게 접근할것인가?](https://os94.tistory.com/162)
 - [JavaScript) Fetch API와 FormData를 이용해 파일을 업로드 하기](https://os94.tistory.com/125)
 
+<br>
 <br>
 
 <img src="https://i.imgur.com/H0pLslv.png" width="500" height="500">
